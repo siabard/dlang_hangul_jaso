@@ -1,0 +1,10 @@
+{
+    "authors": [
+	"Yeonho Jang"
+    ],
+    "copyright": "Copyright © 2024, Yeonho Jang",
+    "description": "A minimal hangul jaso program",
+    "license": "MIT",
+    "name": "hangul_jaso",
+    "targetPath": "build"
+}
